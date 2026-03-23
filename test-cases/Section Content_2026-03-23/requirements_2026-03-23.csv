@@ -1,0 +1,2 @@
+ID,Requirement
+1,"5.2.3.3 Preventing Brute Force Attacks 638 Each Relevant IoT Supplier System Component SHALL implement a mechanism that 639 protects against brute force authentication attacks. IoT Device IoT Gateway IoT App IoT Remote Process Yes4 Yes4 Yes4 Yes4 640 4 Applies if a user or other entity can authenticate to the IoT Supplier System Component."
